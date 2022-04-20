@@ -1,3 +1,6 @@
+This repo is me trying to remove html-react-parser bundle out from clientside.
+
+# Forked from next.js example project
 # Custom Express Server example
 
 Most of the time the default Next.js server will be enough but there are times you'll want to run your own server to integrate into an existing application. Next.js provides [a custom server api](https://nextjs.org/docs/advanced-features/custom-server).
