@@ -1,0 +1,1 @@
+console.log('hello from demo_script_src.js')
